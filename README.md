@@ -1,2 +1,1 @@
-# LabRat
-Matlab Repository
+# MATLAB
